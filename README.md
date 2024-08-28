@@ -25,7 +25,7 @@ Este é um projeto de um jogo simples onde o usuário tenta adivinhar um número
 
 1. Clone o repositório para sua máquina local.
 
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Leandro-Rocha81/Jogo-do-N-mero-Secreto.git)
+    git clone (https://github.com/Leandro-Rocha81/Jogo-do-N-mero-Secreto.git)
 
 2. Abra o arquivo [`index.html`](https://jogo-do-numero-secreto-beta-inky.vercel.app) em seu navegador.
 
